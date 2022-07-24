@@ -5,7 +5,7 @@
                     <div class="px-5 py-5">
                         <router-link to="/VehicleQuestion">
                         <button class="flex h-48 w-full max-w-xs bg-gray-500 hover:bg-gray-700 justify-center items-center text-white font-bold rounded-xl">
-                            C타입(차량성향)</button>
+                            C타입(토너먼트방식)</button>
                         </router-link>
                     </div>        
             </div>
